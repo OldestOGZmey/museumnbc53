@@ -1,0 +1,43 @@
+
+.burger-menu{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.burger-icon {
+    cursor: pointer;
+  
+    width: 70px;
+    height: 70px;
+}
+
+
+
+.menu {
+   
+   color: #45B3D6;
+    background-color: rgba(0, 0, 0, 0.7);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-end-start-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu li {
+    padding: 10px 0px;
+    color: #45B3D6;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333;
+    color: #45B3D6;
+}

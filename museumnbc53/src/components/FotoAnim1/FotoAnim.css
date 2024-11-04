@@ -1,0 +1,17 @@
+
+.scroll-container {
+    overflow-x: hidden;
+    width: 100%;
+    white-space: nowrap;
+    height: 320px;
+    margin-top: 50px;
+    z-index: 1;
+  }
+  
+  .scroll-content {
+    display: flex;
+    align-items: center;
+    transition: transform 0.1s ease-out;
+   
+  }
+  

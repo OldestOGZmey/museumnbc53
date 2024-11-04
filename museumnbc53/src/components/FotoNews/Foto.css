@@ -1,0 +1,51 @@
+
+.Foto{
+    height: 500px;
+    width: 100%;
+}
+.card{
+    height: 600px;
+    width: 370px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.Foto{
+    margin-left: 50px;
+}
+.pic{
+    margin-bottom: 20px;
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+    background-image: url(./img/foto1.png);
+    background-size: cover;
+}
+.mainTitle{
+    font-size: 43px;
+    font-weight: 600;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.subTitle{
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    font-weight: 300;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.dateTitle{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.btn{margin-top: 10px;
+    width: 200px;
+    height: 70px;
+    border-radius: 200px;
+    border: none;
+    background:  #45B3D6;
+    font-size: 16px;
+    cursor: pointer;
+}

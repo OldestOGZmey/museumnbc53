@@ -1,0 +1,10 @@
+.header{
+   
+    margin-top: 10px;
+    position: fixed;
+}
+
+.TeachersPage{
+   display: flex;
+   justify-content: center;
+}

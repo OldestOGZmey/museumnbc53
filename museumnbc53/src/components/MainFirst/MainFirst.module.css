@@ -1,0 +1,47 @@
+.MainFirst{
+  padding: 0;
+  margin: 0;
+  background-image:url(./Img/история\ и\ дата\ с\ синим\ \(1\).svg) ;
+  background-size: cover;
+  height: 1080px;
+  width:100%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  
+}
+.header{
+  position: fixed;
+  z-index: 1000;
+  margin-top: 10px;
+}
+.content{
+text-align: center;
+  margin-top: 500px;
+}
+.contentLogo{
+  color: #59B8D3;
+  font-size: 90px;
+  font-weight: 900;
+}
+.contentTitle{
+  font-size: 21px;
+  margin-top: 10px;
+}
+.contentBtn{
+  margin-top: 50px;
+  width: 380px;
+  height: 70px;
+  border-radius: 200px;
+  border: none;
+  background:  linear-gradient(to right,#ffffff 30%,#45B3D6 80%);
+  font-size: 20px;
+  
+}
+.ret{
+  color: white;
+}
+.mainBtn{
+    display: flex;
+    justify-content: center;
+}
